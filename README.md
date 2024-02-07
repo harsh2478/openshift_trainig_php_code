@@ -1,0 +1,1 @@
+# openshift_trainig_php_code
